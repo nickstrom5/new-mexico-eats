@@ -1,0 +1,222 @@
+{
+ "generated": "2026-11-06",
+ "domain": "https://nickstrom5.github.io/new-mexico-eats",
+ "restaurants": 4099,
+ "places_incl_hidden": 4262,
+ "towns": 155,
+ "counties": 32,
+ "on_an_official_list": 27,
+ "hand_checked_on_a_guide": 82,
+ "serves_alcohol_state_license": 0,
+ "guide_chileburgers": 34,
+ "guide_burritos": 25,
+ "guide_treasures": 25,
+ "oldest": 3,
+ "honors": 27,
+ "michelin": {
+  "MICHELIN Recommended": 7,
+  "Bib Gourmand": 5
+ },
+ "james_beard": 17,
+ "americas_classics": 2,
+ "permits_updated": "2026-10-31",
+ "city_pages": {
+  "Albuquerque": {
+   "restaurants": 1422,
+   "listed": 23,
+   "chileburgers": 4,
+   "burritos": 6,
+   "treasures": 5,
+   "hon": 10,
+   "oldest": 0
+  },
+  "Santa Fe": {
+   "restaurants": 382,
+   "listed": 19,
+   "chileburgers": 3,
+   "burritos": 3,
+   "treasures": 0,
+   "hon": 13,
+   "oldest": 2
+  },
+  "Las Cruces": {
+   "restaurants": 280,
+   "listed": 6,
+   "chileburgers": 2,
+   "burritos": 1,
+   "treasures": 3,
+   "hon": 0,
+   "oldest": 0
+  },
+  "Los Ranchos de Albuquerque": {
+   "restaurants": 28,
+   "listed": 4,
+   "chileburgers": 1,
+   "burritos": 2,
+   "treasures": 2,
+   "hon": 1,
+   "oldest": 0
+  }
+ },
+ "cities_without_a_page": {
+  "Taos": 1,
+  "Farmington": 1,
+  "Gallup": 2,
+  "Roswell": 0,
+  "Rio Rancho": 0,
+  "Mesilla": 2,
+  "Silver City": 0,
+  "Ruidoso": 2,
+  "Carlsbad": 1,
+  "Hobbs": 2,
+  "Clovis": 1,
+  "Tucumcari": 1,
+  "Belen": 3,
+  "Los Alamos": 1,
+  "Raton": 2,
+  "Socorro": 1
+ },
+ "noindex_pages": [],
+ "web_app_data_bytes": {
+  "data/core.json": {
+   "raw": 311709,
+   "gzip": 71679
+  },
+  "data/detail-bernalillo-county.json": {
+   "raw": 93031,
+   "gzip": 21531
+  },
+  "data/detail-catron-county.json": {
+   "raw": 573,
+   "gzip": 316
+  },
+  "data/detail-chaves-county.json": {
+   "raw": 6419,
+   "gzip": 1796
+  },
+  "data/detail-cibola-county.json": {
+   "raw": 2503,
+   "gzip": 814
+  },
+  "data/detail-colfax-county.json": {
+   "raw": 2458,
+   "gzip": 794
+  },
+  "data/detail-curry-county.json": {
+   "raw": 6256,
+   "gzip": 1772
+  },
+  "data/detail-de-baca-county.json": {
+   "raw": 79,
+   "gzip": 85
+  },
+  "data/detail-do-a-ana-county.json": {
+   "raw": 21102,
+   "gzip": 5325
+  },
+  "data/detail-eddy-county.json": {
+   "raw": 6820,
+   "gzip": 1918
+  },
+  "data/detail-grant-county.json": {
+   "raw": 2829,
+   "gzip": 987
+  },
+  "data/detail-guadalupe-county.json": {
+   "raw": 1182,
+   "gzip": 465
+  },
+  "data/detail-hidalgo-county.json": {
+   "raw": 623,
+   "gzip": 293
+  },
+  "data/detail-lea-county.json": {
+   "raw": 7660,
+   "gzip": 2250
+  },
+  "data/detail-lincoln-county.json": {
+   "raw": 3399,
+   "gzip": 1050
+  },
+  "data/detail-los-alamos-county.json": {
+   "raw": 1642,
+   "gzip": 660
+  },
+  "data/detail-luna-county.json": {
+   "raw": 2948,
+   "gzip": 1013
+  },
+  "data/detail-mckinley-county.json": {
+   "raw": 6216,
+   "gzip": 1699
+  },
+  "data/detail-mora-county.json": {
+   "raw": 226,
+   "gzip": 156
+  },
+  "data/detail-otero-county.json": {
+   "raw": 5712,
+   "gzip": 1730
+  },
+  "data/detail-quay-county.json": {
+   "raw": 1350,
+   "gzip": 585
+  },
+  "data/detail-rio-arriba-county.json": {
+   "raw": 2641,
+   "gzip": 986
+  },
+  "data/detail-roosevelt-county.json": {
+   "raw": 1749,
+   "gzip": 670
+  },
+  "data/detail-san-juan-county.json": {
+   "raw": 13597,
+   "gzip": 3520
+  },
+  "data/detail-san-miguel-county.json": {
+   "raw": 2414,
+   "gzip": 830
+  },
+  "data/detail-sandoval-county.json": {
+   "raw": 12219,
+   "gzip": 3258
+  },
+  "data/detail-santa-fe-county.json": {
+   "raw": 25438,
+   "gzip": 6708
+  },
+  "data/detail-sierra-county.json": {
+   "raw": 1565,
+   "gzip": 585
+  },
+  "data/detail-socorro-county.json": {
+   "raw": 1681,
+   "gzip": 601
+  },
+  "data/detail-taos-county.json": {
+   "raw": 6156,
+   "gzip": 1897
+  },
+  "data/detail-torrance-county.json": {
+   "raw": 1486,
+   "gzip": 571
+  },
+  "data/detail-union-county.json": {
+   "raw": 447,
+   "gzip": 228
+  },
+  "data/detail-valencia-county.json": {
+   "raw": 7174,
+   "gzip": 2004
+  },
+  "data/ids.json": {
+   "raw": 53315,
+   "gzip": 31245
+  },
+  "data/nm_shapes.json": {
+   "raw": 19582,
+   "gzip": 4112
+  }
+ }
+}
