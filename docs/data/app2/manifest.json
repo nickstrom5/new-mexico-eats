@@ -1,0 +1,53 @@
+{
+ "schema": 2,
+ "version": "2026-11-06.1",
+ "records_through": "2026-11-06",
+ "min_app_build": 1,
+ "files": {
+  "detail-albuquerque-central-new-mexico": {
+   "path": "detail-albuquerque-central-new-mexico-a59e89f85810.json",
+   "sha256": "a59e89f85810de7051f80be4bab693d0a768d41f648ccb43dd4b95ae0a6edab7",
+   "bytes": 130482
+  },
+  "detail-eastern-plains": {
+   "path": "detail-eastern-plains-1da5303e9f90.json",
+   "sha256": "1da5303e9f90dac24d62780c146d0f053aa92fb8df627f8b0ad50b2f83c1eea5",
+   "bytes": 12358
+  },
+  "detail-las-cruces-southwest-new-mexico": {
+   "path": "detail-las-cruces-southwest-new-mexico-6cd64291b620.json",
+   "sha256": "6cd64291b620a9af321ff9a7e539aa0155ffbe9bc480e039f40299419e5aa934",
+   "bytes": 34299
+  },
+  "detail-northwest-new-mexico": {
+   "path": "detail-northwest-new-mexico-d6ce8ed70303.json",
+   "sha256": "d6ce8ed703038b5f2c700481263b4463b6671d752db210dfa917b0610e027c32",
+   "bytes": 25256
+  },
+  "detail-santa-fe-northern-new-mexico": {
+   "path": "detail-santa-fe-northern-new-mexico-5afa6be87c33.json",
+   "sha256": "5afa6be87c331fe7b3e39459718b123861495853e573bf31822003e4a4bb52c3",
+   "bytes": 45285
+  },
+  "detail-southeast-new-mexico": {
+   "path": "detail-southeast-new-mexico-63133932268d.json",
+   "sha256": "63133932268d7f3f8be7cfda2b630a5f9439391224e74ff8a9286dc48bc92e2f",
+   "bytes": 34972
+  },
+  "places": {
+   "path": "places-6978153ea2d9.json",
+   "sha256": "6978153ea2d9e0b87f464378e5c9e1b7e084aea8e1be1e56d58ec99d0a89d914",
+   "bytes": 716625
+  },
+  "state": {
+   "path": "state-baa5eba0c3f2.json",
+   "sha256": "baa5eba0c3f27040572134fd908794b89cfe5f831205f82579b06226e07c348c",
+   "bytes": 7214
+  }
+ },
+ "counts": {
+  "places": 4262,
+  "restaurants": 4099,
+  "bytes": 1006491
+ }
+}
